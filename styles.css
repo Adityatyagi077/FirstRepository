@@ -1,0 +1,20 @@
+#about{
+    
+    font-family: cursive;
+    
+}
+#projects{
+    font-family: cursive;
+    
+}
+#contact{
+    
+    font-family: cursive;
+}
+body{
+    background-color: bisque;
+}
+#head{
+    background-color: rgb(180, 236, 217);
+    border-radius: 10px;
+}
